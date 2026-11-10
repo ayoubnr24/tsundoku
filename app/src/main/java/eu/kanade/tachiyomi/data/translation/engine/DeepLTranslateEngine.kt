@@ -36,6 +36,7 @@ class DeepLTranslateEngine(
 
     override val supportedLanguages: List<Pair<String, String>> = listOf(
         "auto" to "Auto-detect",
+        "AR" to "Arabic",
         "BG" to "Bulgarian",
         "CS" to "Czech",
         "DA" to "Danish",
